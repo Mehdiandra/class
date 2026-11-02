@@ -1,0 +1,10 @@
+pizza_price=240
+pizza_num=6
+jaa_price=6000
+jaa_num=3
+doogh_price=60
+doogh_num=6
+kole_kharj=(pizza_price*pizza_num)+(jaa_num*jaa_price)+(doogh_num*doogh_price)
+nafarat=3
+print(kole_kharj/nafarat
+      )
